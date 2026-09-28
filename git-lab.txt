@@ -1,1 +1,3 @@
-Change made on main branch 
+Change made on main branch
+Change made on conflict branch
+Conflict resolved successfully.
